@@ -1,5 +1,5 @@
-The iTEBD and DMRG code are written in julia hence to be worked only with a julia kernel
-Plots for iTEBD and DMRG can be visualized when opened in Google Colab
+The TEBD and DMRG code are written in julia hence to be worked only with a julia kernel
+Plots for TEBD and DMRG can be visualized when opened in Google Colab
 it consists of calculation of ground state energies through imaginary time evolution using TEBD
 <br>
 The my module code includes for entenglement steering and properties unleashed as a part of driven dynamics
