@@ -1,6 +1,6 @@
 Driven and undriven cases of entanglement for angular variation is given in my_module.ipynb
 
-
+The TEBD -DMRG file written has a energy vs bond dimension plot and there is another one rpeated with the same pattern but for entropy vs bond-dimension hence must be ignored
 The TEBD and DMRG code are written in julia hence to be worked only with a julia kernel
 
 
